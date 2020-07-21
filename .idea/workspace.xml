@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc50d48f-7995-4660-b6cd-7bbb648aa574" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BusStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusStopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +43,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.BusStopTest">
+  <component name="RunManager" selected="JUnit.BusTest">
     <configuration name="BusStopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BusStop" />
       <option name="PACKAGE_NAME" value="" />
@@ -63,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BusStopTest" />
         <item itemvalue="JUnit.BusTest" />
+        <item itemvalue="JUnit.BusStopTest" />
       </list>
     </recent_temporary>
   </component>
@@ -82,21 +86,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1182" height="258" key="GridCell.Tab.0.bottom" timestamp="1595341862646">
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom" timestamp="1595343349749">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595341862646" />
-    <state width="1182" height="258" key="GridCell.Tab.0.center" timestamp="1595341862645">
+    <state width="1182" height="258" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595343349749" />
+    <state width="1182" height="258" key="GridCell.Tab.0.center" timestamp="1595343349748">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595341862645" />
-    <state width="1182" height="258" key="GridCell.Tab.0.left" timestamp="1595341862644">
+    <state width="1182" height="258" key="GridCell.Tab.0.center/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595343349748" />
+    <state width="1182" height="258" key="GridCell.Tab.0.left" timestamp="1595343349748">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595341862644" />
-    <state width="1182" height="258" key="GridCell.Tab.0.right" timestamp="1595341862646">
+    <state width="1182" height="258" key="GridCell.Tab.0.left/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595343349748" />
+    <state width="1182" height="258" key="GridCell.Tab.0.right" timestamp="1595343349749">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1182" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595341862646" />
+    <state width="1182" height="258" key="GridCell.Tab.0.right/0.23.1920.1057/-1440.203.1440.877@0.23.1920.1057" timestamp="1595343349749" />
   </component>
 </project>
