@@ -9,5 +9,8 @@
         <module name="BusStop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BusStop" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
